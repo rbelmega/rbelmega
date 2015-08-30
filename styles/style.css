@@ -1,5 +1,6 @@
 body {
   font-family: 'Open Sans', serif;
+  background: #FBFBFB;
 }
 
 .tittle-name {
@@ -30,7 +31,8 @@ li {
   border-radius: 60px;
   float: left;
   margin: 22px 34px;
-  padding: 13px 14px;
+  text-align: center;
+  line-height: 45px;
 }
 
 .skills-blue {

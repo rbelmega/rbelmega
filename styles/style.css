@@ -1,0 +1,165 @@
+.tittle-name {
+  border-top:3px solid  #cccccc;
+  border-bottom:3px solid  #cccccc;
+}
+
+li {
+  list-style-type: none;
+}
+
+.skills li span {
+  float: left;
+  width: 85px;
+}
+
+.progress {
+  background-color: rgb(53, 199, 255);
+}
+.additional-skills ul {
+  margin: 0;
+  padding: 0;
+}
+
+.additional-skills li {
+  width: 60px;
+  height: 60px;
+  border-radius: 60px;
+  float: left;
+  margin: 22px 34px;
+  padding: 13px 14px;
+}
+
+.skills-blue {
+  border: 7px solid rgb(0, 0, 255);
+  box-shadow: 0 0 0px 12px rgb(108, 108, 255);
+}
+
+.skills-green {
+  border: 7px solid rgb(0, 156, 10);
+  box-shadow: 0 0 0px 12px rgb(33, 255, 37);
+}
+
+.skills-red {
+  border: 7px solid rgb(164, 0, 31);
+  box-shadow: 0 0 0px 12px rgb(255, 19, 0);
+}
+
+.skills-yellow {
+  border: 7px solid rgb(181, 159, 4);
+  box-shadow: 0 0 0px 12px rgb(246, 255, 0);
+}
+.skills-uw {
+  border: 7px solid rgb(163, 85, 24);
+  box-shadow: 0 0 0px 12px rgb(255, 183, 49);
+}
+.skills-grey {
+  border: 7px solid rgb(133, 136, 131);
+  box-shadow: 0 0 0px 12px rgb(181, 176, 172);
+}
+
+.contacts li img,
+.interests li img {
+  margin-right: 12px;
+}
+
+.contacts a {
+  color: inherit;
+}
+
+.languages li{
+  display: inline-block;
+  float: left;
+  margin: 12px;
+  text-align: center;
+}
+
+.languages li span{
+  line-height: 30px;
+  display: block;
+}
+
+.languages:after {
+  content: ' ';
+  clear: both;
+}
+
+.center-div {
+  border-left: 1px solid #cccccc;
+  border-right: 1px solid #cccccc;
+}
+
+.me-decs {
+  padding: 12px;
+}
+
+.greet {
+  color: rgb(241, 149, 11);
+  font-weight: bolder;
+}
+
+.experience div:not(.timeling) {
+  float: left;
+  border: 3px dashed rgb(241, 149, 11);;
+  background: #f4f4f4;
+  margin: 1px;
+  line-height: 40px;
+  border-bottom: none;
+}
+
+.timeling {
+  clear: both;
+  border-top: 3px solid #101010;
+  font-size: 10px;
+}
+.timeling span{
+  margin-left: -2px;
+}
+
+.pr1 {
+  width: 48%;
+  display: inline-block;
+}
+.pr2 {
+  width: 32%;
+  display: inline-block;
+}
+.pr3 {
+  width: 17%;
+  display: inline-block;
+}
+.col {
+  width: 12px;
+  height: 12px;
+  background: #ffffff;
+  border: 2px solid #428bca;
+  display: block;
+  border-radius: 12px;
+  margin-top: -6px;
+  margin-left: 20px;
+}
+.date-name {
+  margin-left: -20px !important;
+}
+.date-now {
+  float: right;
+}
+
+.date-name-now {
+  margin-left: -9px !important;
+}
+
+.col-md-4 > div{
+  margin-bottom: 36px;
+}
+
+.education span{
+  display: block;
+}
+h4, .h4 {
+  font-size: 24px;
+  font-weight: bolder;
+}
+
+.divider-my{
+  color: #ccc;
+}
